@@ -1,5 +1,6 @@
 import React from "react";
 import BrandPurple from "./BrandPurple";
+import FooterIcon from "./FooterIcon";
 
 function Footer() {
   return (
@@ -9,6 +10,7 @@ function Footer() {
         Thanks dicoding x IM3 Ooredoo for all the course. It’s fun and full of
         benefits especially for me. Hope, God bless you all
       </p>
+      <FooterIcon />
     </footer>
   );
 }
